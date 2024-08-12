@@ -3,7 +3,6 @@
 
 - 🔭 Trabalhjo como estagiária em uma empresa de sistema de gestão escolar
 - 🌱 Atualmente estou estudando sobre .NET
-- 😄 Pronouns: Ele/Ela
 <br>
 
 <div align="center">
