@@ -1,8 +1,8 @@
 ## Olá, me chamo Ellen Beatriz!!
 
 
-- 🔭 Trabalhjo como estagiária em uma empresa de sistema de gestão escolar
-- 🌱 Atualmente estou estudando sobre .NET
+- 🔭 Trabalho como Desenvolvedora .NET na empresa Didatiko
+- 🌱 Atualmente estou cursando Bacharelado em Sistemas de Informação
 <br>
 
 <div align="center">
